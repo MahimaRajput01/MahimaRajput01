@@ -11,5 +11,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimarajput01&show_icons=true&locale=en&layout=compact" alt="mahimarajput01" /></p>
-
